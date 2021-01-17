@@ -17,19 +17,16 @@ export const styles = StyleSheet.create({
     width: 70,
     height: 70,
     borderRadius: 70,
-    marginRight: 10,
+    marginRight: 8,
   },
   username: {
     fontWeight: "bold",
-    marginLeft: 15,
-    fontSize: 16,
+    fontSize: 18,
     alignContent: "flex-start",
   },
   lastMessage: {
     color: "grey",
     fontSize: 14,
-    marginLeft: 15,
-    width: "100%",
   },
   time: {
     color: "grey",
